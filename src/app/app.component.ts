@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'i18n-ts-demo-ng';
+  title2 = '@@my.test.header';
 }
